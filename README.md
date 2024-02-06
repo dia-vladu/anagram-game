@@ -11,7 +11,9 @@ The main activity should contain a button with the text Create anagram. When thi
 
 Note: Anagram is a word/phrase that is obtained by changing the order of the letters of one another word or phrase.
 Example (in English):
-• dusty = study
-• cat = act
-• states = keys
+
+- dusty = study
+- cat = act
+- states = keys
+  
 (These examples can be used both as functional test models and as models for the way the result of clicking the Create button should be displayed on the main screen)
