@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">vladu_diana_ioana_1092</string>
+    <string name="MyName">Vladu Diana Ioana</string>
+    <string name="MyGrupa">1092 E</string>
+    <string name="lamaDescription">This was supposed to be a cute lama image :)</string>
+    <string name="btnCreateAnagram">Create anagram</string>
+    <string name="textTitle">Create the anagram</string>
+    <string name="btnCreate">Create</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="edWord">Introduceti un cuvant</string>
+    <string name="ToastInvalid">Cuvantul introdus nu are anagrame valide!</string>
+</resources>
