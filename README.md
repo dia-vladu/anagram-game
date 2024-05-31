@@ -14,6 +14,6 @@ Example (in English):
 
 - dusty = study
 - cat = act
-- states = keys
+- listen = silent
   
 (These examples can be used both as functional test models and as models for the way the result of clicking the Create button should be displayed on the main screen)
